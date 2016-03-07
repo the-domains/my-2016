@@ -1,0 +1,14 @@
+layout_spectrum: 0.9802867
+typography_spectrum: 0.3637993
+color:
+  saturation: 0.6810036
+  lightness: 0.1541219
+  brandStrength: 0.4569893
+  brandColors:
+    - '#0E0E0C'
+    - '#FFFFEA'
+    - '#BDB49A'
+    - '#886FFF'
+    - '#02BD92'
+  rhythmicContrast: 0.6433692
+name: My 2016
