@@ -1,14 +1,26 @@
-layout_spectrum: 0.9802867
-typography_spectrum: 0.3637993
 color:
   saturation: 0.6810036
-  lightness: 0.1541219
   brandStrength: 0.4569893
+  rhythmicContrast: 0.6433692
   brandColors:
     - '#0E0E0C'
     - '#FFFFEA'
     - '#BDB49A'
     - '#886FFF'
     - '#02BD92'
-  rhythmicContrast: 0.6433692
+  lightness: 0.1541219
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9802867
+typography_spectrum: 0.3637993
 name: My 2016
