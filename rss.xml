@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[My 2016]]></title>
         <description><![CDATA[My 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 17:54:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 16:07:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-2016/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d377a683-fd6c-4697-94b9-71d86ef6f123.png">]]></description>
+            <link>https://thegrid.ai/my-2016/0fb30db7-bc28-484b-903e-5d505bc9736d/index.html</link>
+            <guid isPermaLink="false">0fb30db7-bc28-484b-903e-5d505bc9736d</guid>
+            <pubDate>Sun, 17 Apr 2016 16:07:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MBS]]></title>
-            <description><![CDATA[<article><h1>MBS</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c45b2d7d-17e5-4762-8135-dc0845bd6228.png"></article>]]></description>
-            <link>undefinedmbs/index.html</link>
+            <description><![CDATA[<article><h1>MBS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdbd929626de8c0e9138e6b0242e8d9036188ab5.png"></article>]]></description>
+            <link>https://thegrid.ai/my-2016/mbs/index.html</link>
             <guid isPermaLink="false">06d3ed2c-6db1-4c01-8a84-59bea4cba8cf</guid>
             <pubDate>Mon, 07 Mar 2016 17:51:09 GMT</pubDate>
         </item>
